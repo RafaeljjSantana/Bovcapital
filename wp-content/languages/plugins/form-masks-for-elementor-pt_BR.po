@@ -1,0 +1,64 @@
+# Translation of Plugins - Form Input Masks For Elementor Form - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Form Input Masks For Elementor Form - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-01-15 01:23:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Form Input Masks For Elementor Form - Stable (latest release)\n"
+
+#: includes/class-elementor-mask-control.php:77
+msgid "Off"
+msgstr "Desativado"
+
+#: includes/class-elementor-mask-control.php:76
+msgid "On"
+msgstr "Ativado"
+
+#: includes/class-elementor-mask-control.php:120
+msgid "Mask Prefix"
+msgstr "Prefixo da máscara"
+
+#: includes/class-elementor-mask-control.php:36
+msgid "PRO"
+msgstr "PRO"
+
+#: form-masks-for-elementor.php:135
+msgid "%1$s requires PHP version %2$s or greater."
+msgstr "%1$s requer versão PHP %2$s ou superior."
+
+#: form-masks-for-elementor.php:149
+msgid "%1$s requires WordPress version %2$s or greater."
+msgstr "%1$s requer a versão %2$s %3$s ou superior."
+
+#: includes/class-elementor-mask-control.php:55
+msgid "Credit Card"
+msgstr "Cartão de crédito"
+
+#: includes/class-elementor-mask-control.php:210
+msgid "CEP"
+msgstr "CEP"
+
+#: includes/class-elementor-mask-control.php:54
+msgid "Money"
+msgstr "Dinheiro"
+
+#: includes/class-elementor-mask-control.php:209
+msgid "CNPJ"
+msgstr "CNPJ"
+
+#: includes/class-elementor-mask-control.php:208
+msgid "CPF"
+msgstr "CPF"
+
+#: includes/class-elementor-mask-control.php:51
+msgid "Select Mask"
+msgstr "Selecione a máscara"
+
+#: includes/class-elementor-mask-control.php:44
+msgid "Mask Control"
+msgstr "Controle de máscara"
